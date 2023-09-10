@@ -11,5 +11,5 @@ Refine o modelo apresentado acrescentando os seguintes pontos:
 -   Entrega – Possui status e código de rastreio;
 
 <div align="center">
-<img alt="Banco de Dados – E-COMMERCE" title="Logo Banco de Dados – E-COMMERCE" width="750px" src="g">
+<img alt="Banco de Dados – E-COMMERCE" title="Logo Banco de Dados – E-COMMERCE" width="750px" src="https://github.com/jciterceros/Database_Experience_SQL_e_NoSQL/blob/main/imagens/Projeto%20E-Commerce.png">
 </div>
