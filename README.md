@@ -38,7 +38,7 @@ Este é o primeiro bootcamp sobre Banco de Dados da DIO para profissionais que p
     -   Modelo de Entidade Relacionamento com Banco de Dados
     -   Modelo Relacionamento de Entidade Aprimorado com Banco de Dados
         -   Desafio - Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE
-        -   Desfaio - Construindo um Esquema Conceitual para Banco De dados
+        -   Desafio - Construindo um Esquema Conceitual para Banco De dados
     -   Modelo Relacional e Mapeamento Relacional com Banco de Dados
     -   Primeiros Passos com SQL
     -   Explorando Queries com SQL
