@@ -3,7 +3,7 @@
 Database Experience SQL e NoSQL Bootcamp
 
 <div align="center">
-<img alt="Database Experience SQL e NoSQL Bootcamp" title="Logo Database Experience SQL e NoSQL Bootcamp" width="150px" src="">
+<img alt="Database Experience SQL e NoSQL Bootcamp" title="Logo Database Experience SQL e NoSQL Bootcamp" width="150px" src="https://github.com/jciterceros/Database_Experience_SQL_e_NoSQL/blob/main/imagens/Logo%20Database%20Experience.png">
 </div>
 
 ## Detalhes do bootcamp
