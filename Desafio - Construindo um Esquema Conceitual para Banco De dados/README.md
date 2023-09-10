@@ -3,7 +3,7 @@
 <br />
 
 <div align="center">
-<img alt="Projeto Oficina" title="Logo Projeto Oficina" width="750px" src="">
+<img alt="Projeto Oficina" title="Logo Projeto Oficina" width="750px" src="https://github.com/jciterceros/Database_Experience_SQL_e_NoSQL/blob/main/imagens/Projeto%20Oficina.png">
 </div>
 
 ## Objetivo:
